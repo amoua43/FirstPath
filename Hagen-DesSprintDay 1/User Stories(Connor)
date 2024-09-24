@@ -1,1 +1,21 @@
-Pie
+Roles: Job Applicant, Employer
+
+As a Job Applicant, I can filter through different opportunities, So that I can find the most relevant offers. (Medium)
+
+As a Job Applicant, I can upload my resume, So that my profile looks better. (Medium)
+
+As a Job Applicant, I can build up my resume, So that I can get better jobs than before. (Medium)
+
+As a Job Applicant, I can apply to opportunities, So that I can enter the workforce. (High)
+
+As an Employer, I can post job offers, So that I can hire new employees. (High)
+
+As an Employer, I can post Internship offers, So that I can get temporary labor. (High)
+
+As a Job Applicant, I can find internships, So that I can gain experience in the field of my choice. (High)
+
+As a Job Applicant, I can rate employers, So that I can warn about poor work environments. (Low)
+
+As an Employer, I can set job requirements, So that I can filter out under qualified candidates early. (Low)
+
+As a Job Applicant, I can exclude certain jobs, So that I can avoid bad employers. (Low)
